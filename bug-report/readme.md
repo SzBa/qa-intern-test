@@ -1,0 +1,1 @@
+Bug report list is avaiable at https://trello.com/invite/b/C4LCwRSH/ATTIf6ed48676af0b8b307070f2312723cd36A51D52B/qa-intern-test
