@@ -1,0 +1,15 @@
+{
+    "endOfLine": "auto",
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "arrowParens": "avoid",
+    "importOrder": [
+      "<THIRD_PARTY_MODULES>",
+      "^config",
+      "^shared/(.*)$",
+      "^[../]",
+      "^[./]"
+    ]
+  }
