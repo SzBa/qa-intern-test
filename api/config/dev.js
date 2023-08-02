@@ -1,3 +1,3 @@
 export const config = {
-  baseUrl: " https://api.tvmaze.com",
+  baseUrl: "https://api.tvmaze.com",
 };
